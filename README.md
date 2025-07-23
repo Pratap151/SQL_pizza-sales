@@ -1,3 +1,5 @@
+# SQL_pizza-sales
+
 This project explores a fictional pizza sales database using SQL to uncover key business insights. 
 It includes a wide range of queries that analyze order volume, revenue, pizza popularity, and customer ordering trends.
 Through SQL, this analysis answers questions like:
