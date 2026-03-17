@@ -12,6 +12,6 @@ Through SQL, this analysis answers questions like:
 
 - Which pizzas generate the most revenue?
 
-- How does revenue grow over time?
+
 
 This project is a great example of how SQL can be used to transform raw sales data into useful insights for decision-making in a business context.
